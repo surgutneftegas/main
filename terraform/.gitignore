@@ -1,0 +1,25 @@
+# Исключить все файлы с расширение .a
+*.a
+
+# Но отслеживать файл lib.a даже если он подпадает под исключение выше
+!lib.a
+
+# Исключить файл TODO в корневом каталоге, но не файл в subdir/TODO
+/TODO
+
+# Игнорировать все файлы в каталоге build/
+build/
+
+../.bash_history
+../.bash_logout
+../.bashrc
+../.cache/
+../.config/
+../.gnupg/
+../.local/
+../.profile
+../.sudo_as_admin_successful
+../.vboxclient-clipboard.pid
+../.vboxclient-display-svga-x11.pid
+../.vboxclient-draganddrop.pid
+../.vboxclient-seamless.pid
