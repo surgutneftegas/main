@@ -1,4 +1,0 @@
- 
-
-will_be_deleted
-test string
