@@ -32,3 +32,44 @@ override.tf.json
 # Игнорировать файлы конфигурации CLI
 .terraformrc
 terraform.rc
+commit a664a98f73cae37b7884da7248b4d549a283a07c
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Sun Jul 18 07:53:33 2021 +0300
+
+    mv will_be_moved.txt -> has_been_moved.txt
+
+commit b4c5ee0abbad12c925df65d5d124ff9ebe9f7d78
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Sun Jul 18 07:45:04 2021 +0300
+
+    rm / git rm will_be_deleted.txt
+
+commit ef0c101dae906d8bb27e77e945f2c0624660a66b
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Sun Jul 18 07:36:29 2021 +0300
+
+    delete will_be_deleted.txt in gitignore
+
+commit 1aac550f9ecd1bf330f6ef3dc724eb3a170d944f
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Sun Jul 18 07:17:14 2021 +0300
+
+    redack gitgnore
+
+commit 34a51a455ac811862667a9eb5c46f8e0b4f0557b
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Fri Jul 16 08:28:19 2021 +0300
+
+    Prepare to delete and move
+
+commit 5153af7cb195999755156309bfc9314e90860874
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Fri Jul 16 08:00:42 2021 +0300
+
+    Added gitignore
+
+commit 7c00c5a1a26c1e12847455c7870db6422a260a44
+Author: surgutneftegas <mr.a.linkoln@mail.ru>
+Date:   Thu Jul 15 08:09:39 2021 +0300
+
+    help
